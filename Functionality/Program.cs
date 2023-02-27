@@ -9,8 +9,6 @@ void SerializeVehicles()
     InstanceSerializationService<Vehicle>.Serialize(new FileSerializer(new JsonSerializer()), "vehicles.json");
 }
 
-SerializeVehicles();
-
 foreach (var subtypeName in  typeof(Vehicle).GetSubtypes()
              .Select(subtype => subtype.Name)
              .OrderBy(@string => @string, StringComparer.OrdinalIgnoreCase))
