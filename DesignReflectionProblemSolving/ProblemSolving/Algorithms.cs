@@ -1,4 +1,4 @@
-﻿namespace DeveloperTest.ProblemSolving;
+﻿namespace DRPS.ProblemSolving;
 
 public class Algorithms
 {

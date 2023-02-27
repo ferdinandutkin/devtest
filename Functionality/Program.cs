@@ -1,5 +1,5 @@
-﻿using DeveloperTest.Design;
-using DeveloperTest.Reflection;
+﻿using DRPS.Design;
+using DRPS.Reflection;
 using Functionality;
 using Functionality.Serialization;
 using Functionality.Serialization.Abstractions;

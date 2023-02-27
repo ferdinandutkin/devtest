@@ -1,6 +1,6 @@
-﻿using DeveloperTest.Design;
+﻿using DRPS.Design;
 
-namespace DeveloperTest.Reflection;
+namespace DRPS.Reflection;
 
 internal class Motorcycle : Vehicle
 {

@@ -1,4 +1,4 @@
-﻿using DeveloperTest.Reflection;
+﻿using DRPS.Reflection;
 using Functionality.Serialization.Abstractions;
 
 namespace Functionality;

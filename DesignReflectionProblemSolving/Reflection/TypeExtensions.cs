@@ -1,4 +1,4 @@
-﻿namespace DeveloperTest.Reflection;
+﻿namespace DRPS.Reflection;
 
 public static class TypeExtensions
 {

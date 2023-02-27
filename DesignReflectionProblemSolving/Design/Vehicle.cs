@@ -1,4 +1,4 @@
-﻿namespace DeveloperTest.Design;
+﻿namespace DRPS.Design;
 
 public abstract class Vehicle
 {
