@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\DesignReflection\DesignReflection.csproj" />
+      <ProjectReference Include="..\DesignReflectionProblemSolving\DesignReflectionProblemSolving.csproj" />
     </ItemGroup>
 
 </Project>
